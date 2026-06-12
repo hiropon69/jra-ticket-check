@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="JRA 万馬券チェック">
+  <rect width="512" height="512" rx="96" fill="#17684a"/>
+  <path d="M96 160h320v56H96z" fill="#fffaf2"/>
+  <path d="M96 248h320v56H96z" fill="#fffaf2"/>
+  <path d="M96 336h220v56H96z" fill="#fffaf2"/>
+  <circle cx="372" cy="364" r="44" fill="#b98422"/>
+  <path d="M356 364l12 12 28-34" fill="none" stroke="#fffaf2" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

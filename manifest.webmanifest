@@ -1,0 +1,17 @@
+{
+  "name": "JRA 万馬券チェック",
+  "short_name": "万馬券",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#151811",
+  "theme_color": "#0f4d36",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
